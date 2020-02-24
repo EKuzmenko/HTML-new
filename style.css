@@ -1,0 +1,26 @@
+@font-face{
+    font-family:roboto-regular;
+    src:url('Fonts/3966.ttf')}
+
+.title {
+    font-size: 30px;
+    border: 1px solid red;
+    font-weight: 100;
+    color: rgb(50, 18, 233);
+    text-align: center;
+}
+.title:hover {
+    color: royalblue;
+    font-size:40px;
+    transition:weight 2s;
+}
+p{
+    text-align: justify;
+    font-family:roboto-regular;
+}
+h1 {
+    text-decoration: overline;
+    letter-spacing: 3px;
+    text-shadow: -2px -1px red;
+    text-transform: lowercase;
+  }

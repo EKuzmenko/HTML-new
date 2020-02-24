@@ -1,0 +1,58 @@
+/*.title {
+    font-size: 40px;
+    font-weight: 100;
+    color: blue;
+    margin-left: 15%;
+}*/
+body{
+    background-image: url(Image/background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:105%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 100;
+    color: blue;
+    margin-left: 15%;
+}
+hr{
+    color:rgb(228, 210, 210); /* Цвет линии для IE6-7 */
+    size: 50px;
+}
+h2{
+    font-size: 30px;
+    font-weight: 100;
+    color: blue;
+    margin-left: 30px;
+}
+img{
+    border-radius: 10%;
+    border: 2px solid #ddd;
+    padding: 5px;
+    width: 250px;
+    margin: 7px 7px 7px 0;
+}
+p{
+    text-align: justify;
+    font-size: 20px;
+    border: 1px solid rgba(197, 188, 188, 0.89);
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.lefting{
+    float:left; /* Выравнивание по левому краю */
+}
+.riting{
+    float:right; /* Выравнивание по левому краю */
+    margin-left: 10px;
+}
+#end:hover{
+    background-color: rgb(142, 135, 245);
+}
