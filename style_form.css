@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .body{
     border-radius: 20px;
     border: 2px solid #1b1b1b;
@@ -10,4 +11,12 @@
     background-size:56%;
     margin-left: 35%;
     margin-right: 35%;
+=======
+body{
+    border: 2px solid #1b1b1b;
+    margin-left: 5%;
+    margin-right: 70%;
+    padding-left: 10px;
+    padding-bottom: 10px;
+>>>>>>> 0e06c486d8e3cef8be3f5e803728a135abdecf0c
 }
