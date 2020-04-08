@@ -1,0 +1,82 @@
+.carousel-item {
+    height: 32rem;
+}
+
+.carousel-item {
+    background-image: "kotAbis.jpg";
+    background-color: lawngreen;
+}
+
+.h5, h5 {
+    font-size: 50px;
+}
+
+.p, p {
+    font-size: 20px;
+}
+
+.right {
+    text-align: right!important;
+    ;
+}
+
+.center {
+    text-align: center!important;
+    ;
+}
+
+.left {
+    text-align: left!important;
+    ;
+}
+
+.circle {
+    width: 120px;
+    height: 120px;
+    background-color: grey;
+    border-radius: 50%;
+}
+
+.container {
+    width: 100vw;
+    margin-top: 5vw;
+}
+
+.grid {
+    text-align: center;
+    padding-right: 2vw;
+    margin-top: 2vw;
+}
+
+.grid p {
+    font-size: 15px;
+    color: rgb(44, 44, 44);
+}
+
+.grid h2 {
+    font-size: 35px;
+    color: rgb(44, 44, 44);
+}
+
+hr {
+    border: 1px solid rgba(0, 0, 0, 0.212);
+    width: 91vw;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    text-align: center;
+}
+
+.img-fluid {
+    background-color: lemonchiffon;
+    width: 500px;
+    height: 500px;
+}
+
+.col-md-5 p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: burlywood;
+    font-size: 40px;
+}

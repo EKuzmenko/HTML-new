@@ -1,0 +1,27 @@
+.text-center{
+margin-top: 50px;
+margin-bottom: 50px;
+
+}
+.B-brand{
+    width: 80px;
+    padding-bottom: 20px;
+}
+.text-center h1{
+font-size: 40px;
+}
+.text-center p{
+    font-size: 20px;
+}
+.form-group{
+    margin-bottom: 2px!important;
+}
+.hr{
+    color:rgb(33, 37, 41);
+}
+.NameonCard{
+    font-size: 12px;
+    color: rgb(33, 37, 41);
+    margin-bottom: 0px;
+}
+
