@@ -3,7 +3,7 @@
 }
 
 .navbar {
-    background-color: goldenrod!important;
+    background-color: rgb(255, 133, 52)!important;
     padding: 0rem!important;
     height: 75px;
     z-index: 1;
@@ -93,6 +93,10 @@
     font-weight: 800;
     color: rgb(190, 190, 233)
 }
+.btn{
+    width: 25vw;
+    background-color: rgb(255, 133, 52);
+}
 
 .text button {
     margin-bottom: 5px;
@@ -178,7 +182,7 @@
     z-index: 0;
     width: 100%;
     position: absolute;
-    top: 560px;
+    margin-top: 170px;
     border-top: 1px dashed rgb(170, 166, 166);
 }
 
@@ -205,6 +209,8 @@
 .block2 {
     width: 100%;
     background-color: orangered;
+    padding-bottom: 80px;
+    
 }
 
 .block2 h1 {
@@ -214,17 +220,162 @@
 }
 .programmer{
     width: 30%;
-    margin-left: 15px;
+    margin-left: 20px;
+    margin-top: 15px;
 }
-.block2-2{
-    width: 30%;
+.block2-1{
+    width: 40%;
+    margin-top: 10px;
+    margin-right: 20px;
 }
-.block2-2 p{
+.block2-1 p{
+    font-size: 15px;
+    text-align: justify;
+}
+.block2-1 ul{
+    font-size: 15px;
+    text-align: justify;
+}
+
+.block3 {
+    width: 100%;
+    background-color: rgb(92, 91, 91);
+    padding-bottom: 30px;
+}
+
+.block3 h1 {
+    color: white;
+    text-align: center;
+    font-weight: 100;
+}
+
+.block3-1{
+    width: 80%;
+    margin-top: 10px;
+}
+.block3-1 p{
     font-size: 12px;
     text-align: justify;
 }
-.block2-2 ul{
+.block3-img {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(92, 91, 91);;
+    border-radius: 50%;
+    margin-top: -30px;
+}
+.CoatOfArms{
+    width: 64px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.block3 h1{
+    margin-bottom: 30px;
+}
+
+.text5-5 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.text5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 10px;
+    margin-left: 20px;
+    
+}
+
+.text5 h2 {
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+}
+
+.text5 p {
+    font-size: 15px;
+    color: white;
+}
+
+.text6 {
+    margin-left: 10px;
+}
+
+.text5_img {
+    width: 20px;
+}
+
+.text5 hr {
+    width: 100%;
+    border-top: 1px solid rgb(170, 166, 166);
+}
+
+.ToDoList {
+    width: 70px;
+    padding-top: 20px;
+    padding-left: 5px;
+}
+.block5 {
+    width: 100%;
+    background-color:  rgb(81, 198, 245);
+}
+
+.block5-img {
+    width: 100px;
+    height: 100px;
+    background-color:  rgb(81, 198, 245);
+    border-radius: 50%;
+    margin-top: -30px;
+}
+.block5 h1 {
+    color: white;
+    text-align: center;
+    font-weight: 100;
+}
+
+.block5-2{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.block5-2 p{
+    font-size: 12px;
+    text-align: justify;
+}
+.block5-2 ul{
     font-size: 10px;
     text-align: justify;
+}
+.Message{
+    width: 50vw;
+    height: 135px;
+    margin-bottom: 5px;
+}
+.Input{
+    width: 25vw;
+    margin-bottom: 10px;
+}
+.btn{
+    width: 15vw;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(97, 94, 94);
+}
+.footer p{
+    color: white;
+    margin-left: 50px;
+}
+.copyright{
+    width: 17px;
+    padding-bottom: 4px;
+    padding-right: 4px;
 }
 
